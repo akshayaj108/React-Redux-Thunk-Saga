@@ -36,3 +36,44 @@
     transform: rotate(360deg);
   }
 }
+header {
+  text-align: center;
+  color: rgba(247, 247, 247, 0.98);
+  font-size: 3rem;
+  background-color: rgb(59, 103, 141);
+  font-style: italic;
+  font-weight: bold;
+}
+footer {
+  text-align: center;
+  color: rgb(253, 209, 156);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(19, 18, 18);
+  width: 100%;
+}
+#menu {
+  text-align: center;
+  background-color: rgb(26, 26, 39);
+  height: 40px;
+}
+#menu a {
+  color: rgb(241, 162, 162);
+  margin: 20px;
+  text-decoration: none;
+  font-size: 30px;
+}
+input {
+  width: 250px;
+  height: 30px;
+}
+.cComp {
+  background-color: rgb(243, 160, 58);
+  width: 40%;
+  margin: auto;
+  text-align: center;
+}
+.wrd {
+  text-align: center;
+}
